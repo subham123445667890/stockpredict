@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import yfinance as yf
-pip install yfinance
 venv\Scripts\activate
 from keras.models import load_model
 import streamlit as st
